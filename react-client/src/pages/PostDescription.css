@@ -1,0 +1,29 @@
+.post-banner {
+    position: relative;
+    min-height: 50vh;
+    background: url('../assets/bg.jpg') no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: black;
+}
+
+.post-banner h2 {
+    font-size: 3em;
+    font-weight: 500;
+    line-height: 1.5em;
+}
+
+.post-banner h3 {
+    font-size: 1.5em;
+    font-weight: 500;
+}
+
+.post-details .post-image {
+    margin-bottom: 30px;
+}
+
+.post-details .post-content {
+    font-size: 18px;
+    line-height: 1.6;
+}
